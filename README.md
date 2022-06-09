@@ -1,7 +1,7 @@
 <h1>Segundo projeto que fiz com responsividade</h1>
 <br>
-<h2>Nesse projeto apliquei algo novo na responsividade  que aprendi no curso <a href="https://rodolfomori.com.br/devclub">DevClub</a> que foi:</h2> 
-<p>Função calc (que me auxilia nas contas do tamanho da tela por exemplo. Pois de um dispositivo pra outro o tamanho da tela difere. <p/>
+<h2>Nesse projeto aprendi algo novo pra  aplicar na responsividade, ensinado no curso <a href="https://rodolfomori.com.br/devclub">DevClub</a> que foi:</h2> 
+<p>-Função calc (que me auxilia nas contas do tamanho da tela por exemplo. Pois de um dispositivo pra outro o tamanho da tela difere. <p/>
 
 <br>
 

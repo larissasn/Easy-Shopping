@@ -6,7 +6,7 @@
 <br>
 
 <h3> :arrow_down:Abaixo tem o print de como fica meu projeto na tela de um computador.:computer: </h3>
-<img src=""/>
-<br> 
+<img src="https://github.com/larissasn/Segundo-projeto-com-responsividade/blob/master/assets/print1%20pc.png?raw=true"/>
+<br>
 <h4>:arrow_down:Esse outra imagem mostra como ficaria na tela de uma celular. :iphone:</h4>
-<img  src=""/>
+<img  src="https://github.com/larissasn/Segundo-projeto-com-responsividade/blob/master/assets/print%202%20cllr.png?raw=true"/>

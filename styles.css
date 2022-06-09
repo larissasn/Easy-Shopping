@@ -119,7 +119,7 @@ header {
 
     img {
         position: static;
-        width: 90%;
+        max-width: 90%;
 
     }
 
